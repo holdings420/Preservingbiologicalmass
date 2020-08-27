@@ -15,3 +15,9 @@ In order to achieve preservation the dry mass needs to be 1381
 
 In a sample batch of 1381 grams of strawberries we aim to achieve a range of 320-350 gram of strawberry after the sublimination process.
 To ensure longevity of preservation and consumer safety, the final product should have a pH reading of <3.1 
+
+## Fruit Preserves
+
+- Brix content of the final fruit and sugar mixture is best set to 70.
+- The fruit sugar mixture is pH adjusted using food grade edible acids.
+- Increasing fruit content of the final product is adjusted by adding in dry fruit mass.
