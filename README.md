@@ -1,13 +1,13 @@
 # Preserving Biological Mass as a Food Source
-The purpose of this document and project is to preserve biological mass to elongate the freshness of food. It is in the public interest to raise the standard of everyday food. I believe humans prefer to enjoy what they eat. Let's transform traditional preserves into flavor packed, nutritionally dense, preserves. It is in our interest to bring forth the industrialization of high quality food for all social classes and citizens. 
+The purpose of this document and project is to preserve fruits/plant matter in orderr to elongate the freshness for space travel and for basic consumption. The project stands for the elevation of the everyday food with the public interest in mind. I believe humanity will enjoy the flavor and nutrition of a novel vegan preserve. It is in public interest to bring forth the industrialization of high quality affordable preserves for all social classes and citizens. 
 
-We ask how can we preserve something for a long time without thermal degradation. The procedure is bringing biological mass to a low activity of microbial life to enable the long term preservation of biological mass. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level ranging from 0.5-0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimation of water, addition of food grade sweetening agents, and pH adjustments using organic acids.
+We ask how can we preserve something for a long time without the thermal degradation of traditional jam making methodology. The procedure brings fruit/plant matter to a low activity of microbial life to enable the long term preservation of fruit/plant matter. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level by 0.5 - 0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimating the water in fruit/plant matter, addition of food grade sweetening agents, and acidifying using organic acids, decrease the microbial activity level.
 
-The preserve after having water acivity reduced by 0.5-0.8 would be at a level of 0.2-0.5
+The preserve after having the water acivity reduced by 0.5-0.8 would be at a water activity level of 0.2-0.5
 An ideal water activity level would be 0.16 for the preserve.
 
 ## Drying Fruits
-How to dry fruits while preserving the aromatics of the fruit:
+How to freeze dry fruits while preserving the aromatics of the fruit:
 - Set the vacuum to 3-4.5 torr of pressure
 - Set the Temperature range to -50C to 0C 
 
@@ -21,25 +21,32 @@ Creating a fruit preserve allows the final product to:
 ### Example
 - In a sample batch of 1381 grams of strawberries we aim to achieve a range of 320-350 gram of strawberry post sublimation.
 - The brix level of the mixture is brought to 70 through the addition of sweetening agents such as sucrose.
-- To the post sublimated Fragaria fruit mixture, x grams of sucrose is added to bring the mixture to a brix reading of 70.
+- To the fruit/strawberry/plant matter mixture, sucrose/sweetener is added to bring the mixture to a brix reading of 70.
 - Take a pH reading of the product as each batch will have a different pH reading.
 - https://www.chem.purdue.edu/gchelp/howtosolveit/Equilibrium/Calculating_pHandpOH.htm#:~:text=Calculating_pHandpOH&text=To%20calculate%20the%20pH%20of,%5BH3O%2B%5D
 - To adjust the final pH, x grams of Citric acid is added to obtain a pH reading of 3.0.
 - To ensure longevity of preservation and consumer safety, the final product must have a pH reading of <3.1
-- 
+- Having too low of a pH also causes cavities as it becomes more acidic than lemons.
+- Citric acid metabolism from microbes may raise pH to dangerous levels.
 
 
 ## Fruit Preserves
-- Brix content of the final fruit and sugar mixture is best set to 70.
+- Brix content of the final fruit and sugar mixture is ranges from 40-80 brix.
 - The fruit sugar mixture is pH adjusted using food grade edible acids.
-- Increasing fruit content of the final product is adjusted by adding in dry fruit mass.
+- Increasing fruit content of the final product is adjusted by adding in freeze dried fruit/plant matter.
 
 ## Disclosure of Food Safety
 - The experimental preserve is not deemed food safe as it is a raw product that is preserved.
-- Pathogens and spores existing in air or on the plant are present.
+- Pathogens, botulin spores, mold spores contamination from the farm.
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
+
+## Method of Creation
+- Direct drying of fruit/plant matter to the specified water activity level or purchasing freeze dried fruit/plant matter
+- Blending the fruit/plant matter with sweeteners, organic acids, freeze dried fruit/plant matter.
+- Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance. 
+
 
 ## List of Fruits
 
@@ -190,8 +197,8 @@ Yuzu
 
 ## Simple Recipe
 - Fruit
-- Sweetener (Carbohydrate or Protein)(Honey, Stevia, Erythritol, Allulose, Aspartame, AceK, Sucralose, Sugar, Glucose, Fructose, Brazzein, etc)
-- Acidifier (Lemon,Citric Acid)
+- Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
+- Acidifier (Lemon,Citric Acid, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
 - Optional Preservatives(Benzoate Salts, Sorbate Salts) 
 
