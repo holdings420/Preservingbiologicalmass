@@ -1,8 +1,10 @@
 # Preserving Biological Mass as a Food Source
 The purpose of this document and project is to preserve biological mass to elongate the freshness of food. It is in the public interest to raise the standard of everyday food. I believe humans prefer to enjoy what they eat. Let's transform traditional preserves into flavor packed, nutritionally dense, preserves. It is in our interest to bring forth the industrialization of high quality food for all social classes and citizens. 
 
-We ask how can we preserve something for a long time without thermal degradation. The procedure is bringing biological mass to a low activity of microbial life to enable the long term preservation of biological mass. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level ranging from 0.6-0.7 would create an environment where microbial activity is reduced or stunted. Methods such as sublimation of water, addition of food grade sweetening agents, and pH adjustments using organic acids.
+We ask how can we preserve something for a long time without thermal degradation. The procedure is bringing biological mass to a low activity of microbial life to enable the long term preservation of biological mass. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level ranging from 0.5-0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimation of water, addition of food grade sweetening agents, and pH adjustments using organic acids.
 
+The preserve after having water acivity reduced by 0.5-0.8 would be at a level of 0.2-0.5
+An ideal water activity level would be 0.16 for the preserve.
 
 ## Drying Fruits
 How to dry fruits while preserving the aromatics of the fruit:
@@ -13,7 +15,7 @@ How to dry fruits while preserving the aromatics of the fruit:
 Creating a fruit preserve allows the final product to:
 - Have elongated shelf life of regular fruit
 - Preserve the aromatics of the fruit
-- Have Brix content above 60
+- Have Brix content range from 40-80
 - Have a pH level of <3.1
 
 ### Example
@@ -35,6 +37,9 @@ Creating a fruit preserve allows the final product to:
 ## Disclosure of Food Safety
 - The experimental preserve is not deemed food safe as it is a raw product that is preserved.
 - Pathogens and spores existing in air or on the plant are present.
+
+## Measurement of Water Activity
+- The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
 
 ## List of Fruits
 
@@ -185,9 +190,10 @@ Yuzu
 
 ## Simple Recipe
 - Fruit
-- Sweetener (Carbohydrate or Protein)(Honey, Stevia, Erythritol, Allulose, Aspartame, AceK, Sucralose)
-- Acidifier
-- Dried Fruit Mass
+- Sweetener (Carbohydrate or Protein)(Honey, Stevia, Erythritol, Allulose, Aspartame, AceK, Sucralose, Sugar, Glucose, Fructose, Brazzein, etc)
+- Acidifier (Lemon,Citric Acid)
+- Freeze Dried Fruit 
+- Optional Preservatives(Benzoate Salts, Sorbate Salts) 
 
 ## Recipe Example
 https://recipe.quarksy.space/ 
