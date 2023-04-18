@@ -215,3 +215,4 @@ https://recipe.quarksy.space/
 - https://www.aliexpress.us/item/3256801229941672.html?spm=a2g0o.productlist.main.13.245846eaMfLlPa
 - https://github.com/Naturalog-data/Jam
 - https://github.com/NaturaLog-space/QD-Space-Food
+- Credit and reference to www.quarksy.space if you use this information.
