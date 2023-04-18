@@ -185,9 +185,14 @@ Yuzu
 
 ## Simple Recipe
 - Fruit
-- Sweetener (Carbohydrate or Protein)(Honey)
+- Sweetener (Carbohydrate or Protein)(Honey, Stevia, Erythritol, Allulose, Aspartame, AceK, Sucralose)
 - Acidifier
 - Dried Fruit Mass
 
 ## Recipe Example
 https://recipe.quarksy.space/ 
+
+## Project Notes
+- Graphic Design of Bottle
+- https://github.com/Naturalog-data/Jam
+- https://github.com/NaturaLog-space/QD-Space-Food
