@@ -29,8 +29,7 @@ Creating a fruit preserve allows the final product to:
 - https://www.chem.purdue.edu/gchelp/howtosolveit/Equilibrium/Calculating_pHandpOH.htm#:~:text=Calculating_pHandpOH&text=To%20calculate%20the%20pH%20of,%5BH3O%2B%5D
 - To adjust the final pH, x grams of Citric acid is added to obtain a pH reading of 3.0.
 - To ensure longevity of preservation and consumer safety, the final product must have a pH reading of <3.1
-- Having too low of a pH also causes cavities as it becomes more acidic than lemons.
-- Citric acid metabolism from microbes may raise pH to dangerous levels.
+
 
 
 ## Fruit Preserves
@@ -41,6 +40,9 @@ Creating a fruit preserve allows the final product to:
 ## Disclosure of Food Safety
 - The experimental preserve is not deemed food safe as it is a raw product that is preserved.
 - Pathogens, botulin spores, mold spores contamination from the farm.
+- Having too low of a pH also causes cavities as it becomes more acidic than lemons.
+- Citric acid metabolism from microbes may raise pH to dangerous levels.
+- Enjoy the preserve the day it is made. Any longer and there are risks of mold and food poisoning.
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
