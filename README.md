@@ -6,6 +6,9 @@ We ask how can we preserve something for a long time without the thermal degrada
 The preserve after having the water acivity reduced by 0.5-0.8 would be at a water activity level of 0.2-0.5
 An ideal water activity level would be 0.16 for the preserve.
 
+![Logo](/logo2.png)
+
+
 ## Drying Fruits
 How to freeze dry fruits while preserving the aromatics of the fruit:
 - Set the vacuum to 3-4.5 torr of pressure
