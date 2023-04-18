@@ -42,7 +42,7 @@ Creating a fruit preserve allows the final product to:
 - Pathogens, botulin spores, mold spores contamination from the farm.
 - Having too low of a pH also causes cavities as it becomes more acidic than lemons.
 - Citric acid metabolism from microbes may raise pH to dangerous levels.
-- Enjoy the preserve the day it is made. Any longer and there are risks of mold and food poisoning.
+- Enjoy the preserve the day it is made. Storing the preserve increases the risk of mold and food poisoning.
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
