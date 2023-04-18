@@ -9,10 +9,10 @@ How to dry fruits while preserving the aromatics of the fruit:
 - Set the vacuum to 3-4.5 torr of pressure
 - Set the Temperature range to -50C to 0C 
 
-## Fragaraia Fruit Preserves
-Creating a Fragaria preserve allows the final product to:
-- Have elongated shelf life of regular Fragaria Fruit
-- Preserve the aromatics of the Fragaria Fruit
+## Fruit Preserves
+Creating a fruit preserve allows the final product to:
+- Have elongated shelf life of regular fruit
+- Preserve the aromatics of the fruit
 - Have Brix content above 60
 - Have a pH level of <3.1
 
@@ -26,10 +26,168 @@ Creating a Fragaria preserve allows the final product to:
 - To ensure longevity of preservation and consumer safety, the final product must have a pH reading of <3.1
 - 
 
+
 ## Fruit Preserves
 - Brix content of the final fruit and sugar mixture is best set to 70.
 - The fruit sugar mixture is pH adjusted using food grade edible acids.
 - Increasing fruit content of the final product is adjusted by adding in dry fruit mass.
 
-## Calculator
+## Disclosure of Food Safety
+- The experimental preserve is not deemed food safe as it is a raw product that is preserved.
+- Pathogens and spores existing in air or on the plant are present.
 
+## List of Fruits
+
+Abiu
+Açaí
+Acerola
+Akebi
+Ackee
+African Cherry Orange
+American Mayapple
+Apple
+Apricot
+Aratiles
+Araza
+Atis (Annona Squamosa)
+Avocado
+Banana
+Bilberry
+Blackberry
+Blackcurrant
+Black sapote
+Blueberry
+Boysenberry
+Breadfruit
+Buddha's hand (fingered citron)
+Cacao
+Cactus pear
+Canistel - also called egg fruit
+Catmon
+Cempedak
+Cherimoya (Custard Apple)
+Cherry
+Chico fruit
+Cloudberry
+Coco de mer
+Coconut
+Crab apple
+Cranberry
+Currant
+Damson
+Date
+Dragonfruit (or Pitaya)
+Durian
+Elderberry
+Feijoa
+Fig
+Finger Lime (or Caviar Lime)
+Goji berry
+Gooseberry
+Grape
+Raisin
+Grapefruit
+Grewia asiatica (phalsa or falsa)
+Guava
+Guyabano
+Hala Fruit
+Honeyberry
+Huckleberry
+Jabuticaba (Plinia)
+Jackfruit
+Jambul
+Japanese plum
+Jostaberry
+Jujube
+Juniper berry
+Kaffir Lime
+Kiwano (horned melon)
+Kiwifruit
+Kumquat
+Lanzones
+Lemon
+Lime
+Loganberry
+Longan
+Loquat
+Lulo
+Lychee
+Magellan Barberry
+Macopa (Wax Apple)
+Mamey Apple
+Mamey Sapote
+Mango
+Mangosteen
+Marionberry
+Melon
+Cantaloupe
+Galia melon
+Honeydew
+Mouse melon
+Musk melon
+Watermelon
+Miracle fruit
+Momordica fruit
+Monstera deliciosa
+Mulberry
+Nance
+Nectarine
+Orange
+Blood orange
+Clementine
+Mandarine
+Tangerine
+Papaya
+Passionfruit
+Pawpaw
+Peach
+Pear
+Persimmon
+Plantain
+Plum
+Prune (dried plum)
+Pineapple
+Pineberry
+Plumcot (or Pluot)
+Pomegranate
+Pomelo
+Purple mangosteen
+Quince
+Raspberry
+Salmonberry
+Rambutan (or Mamin Chino)
+Redcurrant
+Rose apple
+Salal berry
+Salak
+Santol (Cotton Fruit)
+Sampaloc
+Sapodilla
+Sapote
+Sarguelas (Red Mombin)
+Satsuma
+Soursop
+Star apple
+Star fruit
+Strawberry
+Surinam cherry
+Tamarillo
+Tamarind
+Tangelo
+Tayberry
+Tambis (Water Apple)
+Thimbleberry
+Ugli fruit
+White currant
+White sapote
+Ximenia
+Yuzu
+
+## Simple Recipe
+- Fruit
+- Sweetener (Carbohydrate or Protein)(Honey)
+- Acidifier
+- Dried Fruit Mass
+
+## Recipe Example
+https://recipe.quarksy.space/ 
