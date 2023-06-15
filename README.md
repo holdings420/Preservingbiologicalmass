@@ -43,18 +43,38 @@ Creating a fruit preserve allows the final product to:
 - Having too low of a pH also causes cavities as it becomes more acidic than lemons.
 - Citric acid metabolism from microbes may raise pH to dangerous levels.
 - Enjoy the preserve the day it is made. Storing the preserve increases the risk of mold and food poisoning.
-- Wash the fruit in ozone water or soap water and isolate the fruit using a strainer or basket.
-- Ultrasonic cleaner in ozone
-- Place fruit in a ultrasonic cleaner with ozone and soap solution where the fruit is only 1 layer of fruit with no impediment to the line of sight of ultrasonic energy.
+
+
+## Method of Washing and Sanitizing
+- Place fruit in a ultrasonic cleaner with ozone and soap solution where the fruit is only 1 layer of fruit with no impediment to the line of sight from the ultrasonic transducer.
+- Sonicate the fruit for 5 minute while constantly moving the fruit around for proper cleaning of all cavities.
+- Isolate the fruit from the cleaner using a strainer or basket.
+- Rinse fruit with ozone water.
+
+## Method of Processing for the OCD
+- In a clean room sanitized with UV and fumigated with ozone, the processing of fruit takes place. Removal and deactivation of fungal / microbial spores is crucial for food safety.
+- If using a hood then the hood needs to be sanitized and fumigated with ozone. 
+- All ingredients entering the clean room either gets thermally sterilized at 150C for 1 hour or goes through an ultrasonic ozone + soap wash.
+- All equipments are autoclaved for 1 hour prior to use.
+- All employees are to wear clean suits, gloves, and require respirators to filter any foreign particulates from respiration.
+
+## Method of Freeze Drying for the OCD
+- A water cooled freeze drier is used to reduce the amount of airflow in the clean room.
+- Freeze drier is sanitized using ozone fumigation and uv light. The inside of the freeze drier should be cleaned with soap and ozone water with every use.
+- If the fruit is moved from a hood into the freeze drier, then the fruit needs to be moved from sanitary containment from the hood to the freeze drier.
+- Containment vessel should be washed with ozone water anytime it moves through air.
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
 
-## Method of Creation
+## Method of Blending and Sonication
 - Direct drying of fruit/plant matter to the specified water activity level or purchasing freeze dried fruit/plant matter
 - Blending the fruit/plant matter with sweeteners, organic acids, freeze dried fruit/plant matter.
 - Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance. 
 
+## Nutrition Disclosure
+- Ozone washing oxidizes vitamins and antioxidants hence there is a loss of nutrients.
+- Every batch should be tested for the vitamin content and be supplemented the amount of oxidized vitamins and antioxidants.
 
 ## List of Fruits
 
@@ -209,6 +229,12 @@ Yuzu
 - Acidifier (Lemon,Citric Acid, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
 - Optional Preservatives(Benzoate Salts, Sorbate Salts) 
+
+## Supplemented Nutrients
+- Vitamins
+- Antioxidants
+- https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
+- https://www.hsph.harvard.edu/nutritionsource/antioxidants/
 
 ## Recipe Example
 https://recipe.quarksy.space/ 
