@@ -43,10 +43,11 @@ Creating a fruit preserve allows the final product to:
 - Having too low of a pH also causes cavities as it becomes more acidic than lemons.
 - Citric acid metabolism from microbes may raise pH to dangerous levels.
 - Enjoy the preserve the day it is made. Storing the preserve increases the risk of mold and food poisoning.
+- "Food Contamination: Aspergillus restrictus has been associated with food spoilage and can contaminate a variety of food products, especially those exposed to salt, such as cured meats, salted fish, and salted snacks." -ChatGPT
 - https://www.youtube.com/watch?v=iZjhakKsZXQ&ab_channel=UCD-UniversityCollegeDublin
 - https://www.youtube.com/watch?v=O1mroOcE4SU&ab_channel=4AI4YOU
 - https://www.youtube.com/watch?v=piCWFgwysu0&ab_channel=JAMANetwork
-
+- https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/aspergillus-restrictus
 
 ## Method of Washing and Sanitizing
 - Place fruit in a ultrasonic cleaner with ozone and soap solution where the fruit is only 1 layer of fruit with no impediment to the line of sight from the ultrasonic transducer.
@@ -61,7 +62,6 @@ Creating a fruit preserve allows the final product to:
 - All equipments are autoclaved for 1 hour prior to use.
 - All employees are to wear clean suits, gloves, and require respirators to filter any foreign particulates from respiration.
 
-- 
 
 ## Method of Freeze Drying for the OCD
 - A water cooled freeze drier is used to reduce the amount of airflow in the clean room.
@@ -79,7 +79,9 @@ Creating a fruit preserve allows the final product to:
 
 ## Nutrition Disclosure
 - Ozone washing oxidizes vitamins and antioxidants hence there is a loss of nutrients.
-- Every batch should be tested for the vitamin content and be supplemented the amount of oxidized vitamins and antioxidants.
+- Standard method of calculating the vitamins and nutrients in the jam is insufficient due to the oxidation.
+- Every batch should be lab tested for the vitamin content and be supplemented the amount of oxidized vitamins and antioxidants.
+
 
 ## List of Fruits
 
