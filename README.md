@@ -252,3 +252,4 @@ https://recipe.quarksy.space/
 - https://github.com/Naturalog-data/Jam
 - https://github.com/NaturaLog-space/QD-Space-Food
 - Credit and reference to www.quarksy.space if you use this information.
+- https://www.kickstarter.com/projects/jamukawaii/jamus-japanese-jam
