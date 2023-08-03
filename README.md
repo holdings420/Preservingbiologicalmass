@@ -24,6 +24,7 @@ Creating a fruit preserve allows the final product to:
 - Have Brix content range from 40-80
 - Have a pH level of <3.1
 - https://bio.libretexts.org/Courses/Manchester_Community_College_%28MCC%29/Remix_of_Openstax%3AMicrobiology_by_Parker_Schneegurt_et_al/08%3A_Microbial_Growth/8.03%3A_The_Effects_of_pH_on_Microbial_Growth
+![pH](/PhMicrobe.jpg)
 
 ### Example
 - In a sample batch of 1381 grams of strawberries we aim to achieve a range of 320-350 gram of strawberry post sublimation.
@@ -58,7 +59,9 @@ Creating a fruit preserve allows the final product to:
 - Rinse fruit with ozone water.
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8065486/
 - https://www.oxidationtech.com/applications/grain/grain-mold.html
+- https://www.sciencedirect.com/science/article/abs/pii/S1878818119303809
 - Large companies utilize ozone for grain disinfection in cereal products.
+![Ozone](/GrainOzone.png)
 
 ## Method of Processing for the OCD
 - In a clean room sanitized with UV and fumigated with ozone, the processing of fruit takes place. Removal and deactivation of fungal / microbial spores is crucial for food safety.
@@ -84,7 +87,8 @@ Creating a fruit preserve allows the final product to:
 - Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance.
 - Keeping the mixture at a temperature between -10C to 40C for a raw processed product. The lower the temperature the better.
 - Keeping the atmospheric pressure for the mixture between .5 atm to 2 atm to decrease the amount of natural volatiles from vaporizing. The higher the pressure the better.
-- TLDR DO YOU KNOW HOW TO MAKE A FRUIT SMOOTHIE? Then sonicate if you want a free flowing metastable product.
+- TLDR DO YOU KNOW HOW TO MAKE A 5 MINUTE FRUIT SMOOTHIE? Then sonicate if you want a free flowing metastable product.
+![easy](/smoothie.png)
 
 ## Pasturization via heat to create a fruit dense jam.
 - Temperature	Time	Pasteurization Type
