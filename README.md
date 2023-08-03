@@ -60,14 +60,16 @@ Creating a fruit preserve allows the final product to:
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8065486/
 - https://www.oxidationtech.com/applications/grain/grain-mold.html
 - https://www.sciencedirect.com/science/article/abs/pii/S1878818119303809
-- Large companies utilize ozone for grain disinfection in cereal products.
-![Ozone](/GrainOzone.png)
-![cereal](/cereal.jpg)
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498452/
 - This research paper uses Chlorine dioxide but it shows the effectiveness the use of an disinfectant and ultrasonic cleaner. By using Ozone the final product is cleaner.
 ![UltraClean](/ultraclean.jpg)
 - https://pubs.acs.org/doi/10.1021/acs.iecr.2c01551
 - Live microbial cultures exposed to ozone to disinfect viewed under electron microscope.
+  
+## Large companies utilize ozone for grain disinfection in cereal products.
+![Ozone](/GrainOzone.png)
+![cereal](/cereal.jpg)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498452/
+
 
 ## Method of Processing for the OCD
 - In a clean room sanitized with UV and fumigated with ozone, the processing of fruit takes place. Removal and deactivation of fungal / microbial spores is crucial for food safety.
