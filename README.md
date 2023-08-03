@@ -4,7 +4,9 @@ The purpose of this document and project is to preserve fruits/plant matter in o
 We ask how can we preserve something for a long time without the thermal degradation of traditional jam making methodology. The procedure brings fruit/plant matter to a low activity of microbial life to enable the long term preservation of fruit/plant matter. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level by 0.5 - 0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimating the water in fruit/plant matter, addition of food grade sweetening agents, and acidifying using organic acids, decrease the microbial activity level.
 
 The preserve after having the water acivity reduced by 0.5-0.8 would be at a water activity level of 0.2-0.5
-An ideal water activity level would be 0.16 for the preserve.
+An ideal water activity level would be 0.2 for the preserve.
+
+![Water Activity](/wateractivity.png)
 
 ![Logo](/Logo2.png)
 
