@@ -93,6 +93,7 @@ Creating a fruit preserve allows the final product to:
 - Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance.
 - Keeping the mixture at a temperature between -10C to 40C for a raw processed product. The lower the temperature the better.
 - Keeping the atmospheric pressure for the mixture between .5 atm to 2 atm to decrease the amount of natural volatiles from vaporizing. The higher the pressure the better.
+- https://onlinelibrary.wiley.com/doi/abs/10.1002/elsc.200390018  Sonication for metastable product.
 - TLDR DO YOU KNOW HOW TO MAKE A 5 MINUTE FRUIT SMOOTHIE? Then sonicate if you want a free flowing metastable product.
 ![easy](/smoothie.png)
 
