@@ -1,6 +1,8 @@
 # Preserving Biological Mass as a Food Source
 The purpose of this document and project is to preserve fruits/plant matter in orderr to elongate the freshness for space travel and for basic consumption. The project stands for the elevation of the everyday food with the public interest in mind. I believe humanity will enjoy the flavor and nutrition of a novel vegan preserve. It is in public interest to bring forth the industrialization of high quality affordable preserves for all social classes and citizens. 
 
+![Logo](/Logo2.png)
+
 We ask how can we preserve something for a long time without the thermal degradation of traditional jam making methodology. The procedure brings fruit/plant matter to a low activity of microbial life to enable the long term preservation of fruit/plant matter. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level by 0.5 - 0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimating the water in fruit/plant matter, addition of food grade sweetening agents, and acidifying using organic acids, decrease the microbial activity level.
 
 The preserve after having the water acivity reduced by 0.5-0.8 would be at a water activity level of 0.2-0.5
@@ -8,13 +10,12 @@ An ideal water activity level would be 0.2 for the preserve.
 
 ![Water Activity](/wateractivity.png)
 
-![Logo](/Logo2.png)
-
-
 ## Drying Fruits
 How to freeze dry fruits while preserving the aromatics of the fruit:
 - Set the vacuum to 3-4.5 torr of pressure
-- Set the Temperature range to -50C to 0C 
+- Set the Temperature range to -50C to 0C
+- https://www.researchgate.net/figure/Changes-of-temperature-and-pressure-during-freeze-drying-process-24-Handing-and_fig2_335669275
+
 
 ## Fruit Preserves
 Creating a fruit preserve allows the final product to:
@@ -22,6 +23,7 @@ Creating a fruit preserve allows the final product to:
 - Preserve the aromatics of the fruit
 - Have Brix content range from 40-80
 - Have a pH level of <3.1
+- https://bio.libretexts.org/Courses/Manchester_Community_College_%28MCC%29/Remix_of_Openstax%3AMicrobiology_by_Parker_Schneegurt_et_al/08%3A_Microbial_Growth/8.03%3A_The_Effects_of_pH_on_Microbial_Growth
 
 ### Example
 - In a sample batch of 1381 grams of strawberries we aim to achieve a range of 320-350 gram of strawberry post sublimation.
@@ -31,8 +33,6 @@ Creating a fruit preserve allows the final product to:
 - https://www.chem.purdue.edu/gchelp/howtosolveit/Equilibrium/Calculating_pHandpOH.htm#:~:text=Calculating_pHandpOH&text=To%20calculate%20the%20pH%20of,%5BH3O%2B%5D
 - To adjust the final pH, x grams of Citric acid is added to obtain a pH reading of 3.0.
 - To ensure longevity of preservation and consumer safety, the final product must have a pH reading of <3.1
-
-
 
 ## Fruit Preserves
 - Brix content of the final fruit and sugar mixture is ranges from 40-80 brix.
@@ -56,6 +56,9 @@ Creating a fruit preserve allows the final product to:
 - Sonicate the fruit for 5 minute while constantly moving the fruit around for proper cleaning of all cavities.
 - Isolate the fruit from the cleaner using a strainer or basket.
 - Rinse fruit with ozone water.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8065486/
+- https://www.oxidationtech.com/applications/grain/grain-mold.html
+- Large companies utilize ozone for grain disinfection in cereal products.
 
 ## Method of Processing for the OCD
 - In a clean room sanitized with UV and fumigated with ozone, the processing of fruit takes place. Removal and deactivation of fungal / microbial spores is crucial for food safety.
@@ -70,16 +73,18 @@ Creating a fruit preserve allows the final product to:
 - Freeze drier is sanitized using ozone fumigation and uv light. The inside of the freeze drier should be cleaned with soap and ozone water with every use.
 - If the fruit is moved from a hood into the freeze drier, then the fruit needs to be moved from sanitary containment from the hood to the freeze drier.
 - Containment vessel should be washed with ozone water anytime it moves through air.
+- https://blog.gotopac.com/2018/02/14/cleanroom-preparation-procedure/
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
 
 ## Method of Blending and Sonication
-- Direct drying of fruit/plant matter to the specified water activity level of the mixture or blending freeze dried fruit/plant matter to lower the water activity level.
+- Direct drying of fruit/plant matter to the specified water activity level of the mixture or blending freeze dried fruit/plant matter to fresh fruit/plant matter to lower the water activity level.
 - Blending the fruit/plant matter with sweeteners, organic acids, freeze dried fruit/plant matter.
 - Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance.
 - Keeping the mixture at a temperature between -10C to 40C for a raw processed product. The lower the temperature the better.
 - Keeping the atmospheric pressure for the mixture between .5 atm to 2 atm to decrease the amount of natural volatiles from vaporizing. The higher the pressure the better.
+- TLDR DO YOU KNOW HOW TO MAKE A FRUIT SMOOTHIE? Then sonicate if you want a free flowing metastable product.
 
 ## Pasturization via heat to create a fruit dense jam.
 - Temperature	Time	Pasteurization Type
