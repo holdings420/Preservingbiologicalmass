@@ -117,6 +117,10 @@ Creating a fruit preserve allows the final product to:
 - Standard method of calculating the vitamins and nutrients in the jam is insufficient due to the oxidation.
 - Every batch should be lab tested for the vitamin content and be supplemented the amount of oxidized vitamins and antioxidants.
 
+## Extrusion into Jars
+- Every company has their own method and setup.
+- Here is an example of an auger pump to extrude into a jar.
+- https://patents.google.com/patent/US5213414A/en?q=(auger+pump)&oq=auger+pump
 
 ## List of Fruits
 
