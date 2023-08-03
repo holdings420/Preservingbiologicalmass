@@ -73,9 +73,23 @@ Creating a fruit preserve allows the final product to:
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
 
 ## Method of Blending and Sonication
-- Direct drying of fruit/plant matter to the specified water activity level or purchasing freeze dried fruit/plant matter
+- Direct drying of fruit/plant matter to the specified water activity level of the mixture or blending freeze dried fruit/plant matter to lower the water activity level.
 - Blending the fruit/plant matter with sweeteners, organic acids, freeze dried fruit/plant matter.
-- Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance. 
+- Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance.
+- Keeping the mixture at a temperature between -10C to 40C for a raw processed product.
+- Keeping the atmospheric pressure for the mixture between .5 atm to 2 atm to decrease the amount of natural volatiles from vaporizing.
+
+## Pasturization via heat to create a fruit dense jam.
+- Temperature	Time	Pasteurization Type
+- https://www.idfa.org/pasteurization
+- 63ºC (145ºF)*	30 minutes	Vat Pasteurization
+- 72ºC (161ºF)*	15 seconds	High temperature short time Pasteurization (HTST)
+- 89ºC (191ºF)	1.0 second	Higher-Heat Shorter Time (HHST)
+- 90ºC (194ºF)	0.5 seconds	Higher-Heat Shorter Time (HHST)
+- 94ºC (201ºF)	0.1 seconds	Higher-Heat Shorter Time (HHST)
+- 96ºC (204ºF)	0.05 seconds	Higher-Heat Shorter Time (HHST)
+- 100ºC (212ºF)	0.01seconds	Higher-Heat Shorter Time (HHST)
+- 138ºC (280ºF)	2.0 seconds	Ultra Pasteurization (UP)
 
 ## Nutrition Disclosure
 - Ozone washing oxidizes vitamins and antioxidants hence there is a loss of nutrients.
