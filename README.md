@@ -72,6 +72,8 @@ Creating a fruit preserve allows the final product to:
 - All ingredients entering the clean room either gets thermally sterilized at 150C for 1 hour or goes through an ultrasonic ozone + soap wash.
 - All equipments are autoclaved for 1 hour prior to use.
 - All employees are to wear clean suits, gloves, and require respirators to filter any foreign particulates from respiration.
+- https://www.ncbi.nlm.nih.gov/books/NBK310477/
+- https://blog.gotopac.com/2018/02/14/cleanroom-preparation-procedure/
 
 
 ## Method of Freeze Drying for the OCD
@@ -79,7 +81,6 @@ Creating a fruit preserve allows the final product to:
 - Freeze drier is sanitized using ozone fumigation and uv light. The inside of the freeze drier should be cleaned with soap and ozone water with every use.
 - If the fruit is moved from a hood into the freeze drier, then the fruit needs to be moved from sanitary containment from the hood to the freeze drier.
 - Containment vessel should be washed with ozone water anytime it moves through air.
-- https://blog.gotopac.com/2018/02/14/cleanroom-preparation-procedure/
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
@@ -261,7 +262,7 @@ Yuzu
 ## Simple Recipe
 - Fruit
 - Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
-- Acidifier (Lemon,Citric Acid, Organic Acids, Common Fruit Acids)
+- Acidifier (Lemon, Citric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
 - Optional Preservatives(Benzoate Salts, Sorbate Salts) 
 
