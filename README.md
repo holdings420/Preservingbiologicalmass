@@ -62,6 +62,7 @@ Creating a fruit preserve allows the final product to:
 - https://www.sciencedirect.com/science/article/abs/pii/S1878818119303809
 - Large companies utilize ozone for grain disinfection in cereal products.
 ![Ozone](/GrainOzone.png)
+![cereal](/cereal.jpg)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498452/
 - This research paper uses Chlorine dioxide but it shows the effectiveness the use of an disinfectant and ultrasonic cleaner. By using Ozone the final product is cleaner.
 ![UltraClean](/ultraclean.jpg)
