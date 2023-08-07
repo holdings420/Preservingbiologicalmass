@@ -67,3 +67,13 @@
 - Weigh the puree
 - Place the puree in a rotovap
 - Run the rotovap until the puree is 20-40% of its final weight
+
+## Space Drying
+
+- Build a rocket
+- Send Fruit/plant matter to space, or grow fruit/plant matter in space
+- Slice or puree the fruit or utilize whole fruit
+- Weigh the fruit/plant matter
+- Along cold plates expose the fruit/plant matter to  the vacuum of space
+- Weigh the fruit/plant matter
+- Dehydrate the fruit/plant matter until it is 10-15% of its starting weight
