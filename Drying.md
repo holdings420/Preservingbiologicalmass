@@ -62,7 +62,8 @@
 
 ## Thin Film Vacuum Drying
 
+- https://www.aidic.it/cet/20/78/002.pdf
 - Puree fruit/plant matter until its fluid and no longer a solid
 - Weigh the puree
 - Place the puree in a rotovap
-- Run the rotovap until the puree is 30-40% of its final weight
+- Run the rotovap until the puree is 20-40% of its final weight
