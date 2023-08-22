@@ -1,4 +1,4 @@
-#Deliciously Incentivizing Carbon Capture
+# Creating Delicious Incentives for Carbon Capture
 
 ## Creating a Delicious Product
 - Fruit jams that are delicious.
