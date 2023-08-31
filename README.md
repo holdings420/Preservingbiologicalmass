@@ -1,12 +1,16 @@
 # Methods of Irradiation 8/31/23
 Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiation, X-Ray Irradiation.
 - https://www.fda.gov/food/buy-store-serve-safe-food/food-irradiation-what-you-need-know
+## Apply X-Ray radiation with energy levels of 5-10MeV
+## Apply Cobalt 60 radiation
+## Apply dosage of 10kGy radiation for full sterility of the unpasteurized preserve.
+
 - https://www.epa.gov/radiation/what-food-irradiation#:~:text=Irradiation%20does%20not%20make%20the,viruses%20that%20cause%20foodborne%20illness.
 - https://pubmed.ncbi.nlm.nih.gov/32072900/
 - https://patents.google.com/patent/US6614876B1/en (expired)
 - https://patents.google.com/patent/US6389099B1/en (expired)
 
-- How xray is used to sterilize medical devices
+## How xray is used to sterilize medical devices
 - https://biomedgrid.com/fulltext/volume12/using-x-ray-technology-to-sterilize-medical-devices.001755.php
 
 
