@@ -3,6 +3,11 @@ Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiat
 - https://www.fda.gov/food/buy-store-serve-safe-food/food-irradiation-what-you-need-know
 - https://www.epa.gov/radiation/what-food-irradiation#:~:text=Irradiation%20does%20not%20make%20the,viruses%20that%20cause%20foodborne%20illness.
 - https://pubmed.ncbi.nlm.nih.gov/32072900/
+- https://patents.google.com/patent/US6614876B1/en (expired)
+- https://patents.google.com/patent/US6389099B1/en (expired)
+
+- How xray is used to sterilize medical devices
+- https://biomedgrid.com/fulltext/volume12/using-x-ray-technology-to-sterilize-medical-devices.001755.php
 
 
 
