@@ -13,7 +13,7 @@ Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiat
 ## How xray is used to sterilize medical devices
 - https://biomedgrid.com/fulltext/volume12/using-x-ray-technology-to-sterilize-medical-devices.001755.php
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 # Creating Delicious Incentives to Eat Global Warming 8/22/23
