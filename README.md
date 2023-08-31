@@ -1,3 +1,12 @@
+# Methods of Irradiation 8/31/23
+Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiation, X-Ray Irradiation.
+- https://www.fda.gov/food/buy-store-serve-safe-food/food-irradiation-what-you-need-know
+- https://www.epa.gov/radiation/what-food-irradiation#:~:text=Irradiation%20does%20not%20make%20the,viruses%20that%20cause%20foodborne%20illness.
+- https://pubmed.ncbi.nlm.nih.gov/32072900/
+
+
+
+
 # Creating Delicious Incentives to Eat Global Warming 8/22/23
 The problem with methods of carbon capture is that there needs to be incentives or subsidies to make carbon capture viable. To make carbon capture viable, the system needs to be self sustaining without the need of incentives or subsidies in order to be natural.
 
