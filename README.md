@@ -11,21 +11,21 @@
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.3)
 - Citric Acid
-
+--------------------------------------
 - Fruit (2)
--- Water released (1)
+    - Water released (1)
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.2)
 - Citric Acid
-
+---------------------------------------
 - Fruit (3)
--- Water released (2)
+    - Water released (2)
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.1)
 - Citric Acid
-
+----------------------------------------
 - Fruit (4)
--- Water released (3)
+    - Water released (3)
 - Sugar (1.4-1.7)
 - Citric Acid
 
