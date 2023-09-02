@@ -6,6 +6,7 @@
 - Add Sugar and Citric Acid
 
 ## Translating Freeze Dry + Fruit Recipe to Reverse Osmosis Method
+Water released refers to the amount of water released through reverse osmosis.
 
 - Fruit (1)
 - Sugar (1.4-1.7)
