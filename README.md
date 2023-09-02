@@ -1,3 +1,37 @@
+# Method of Preserving Fruit through Reverse Osmosis 9/1/23
+
+- https://patents.google.com/patent/EP1222864B1/en?q=(reverse+osmosis+fruit)&oq=reverse+osmosis+fruit
+- Utilize the process to concentrate the fruit/vegetable juice.
+- Add the fruit pulp to the concentrated juice.
+- Add Sugar and Citric Acid
+
+## Translating Freeze Dry + Fruit Recipe to Reverse Osmosis Method
+
+- Fruit (1)
+- Sugar (1.4-1.7)
+- Freeze Dried Fruit (.3)
+- Citric Acid
+
+- Fruit (2)
+-- Water released (1)
+- Sugar (1.4-1.7)
+- Freeze Dried Fruit (.2)
+- Citric Acid
+
+- Fruit (3)
+-- Water released (2)
+- Sugar (1.4-1.7)
+- Freeze Dried Fruit (.1)
+- Citric Acid
+
+- Fruit (4)
+-- Water released (3)
+- Sugar (1.4-1.7)
+- Citric Acid
+
+    
+--------------------------------------------------------------------------------------------------------------
+
 # Methods of Irradiation 8/31/23
 Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiation, X-Ray Irradiation.
 - https://www.fda.gov/food/buy-store-serve-safe-food/food-irradiation-what-you-need-know
