@@ -348,7 +348,7 @@ Yuzu
 - Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
 - Acidifier (Lemon, Citric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
-- Optional Preservatives(Benzoate Salts, Sorbate Salts) 
+- Optional Preservatives
 
 ## Supplemented Nutrients
 - Vitamins
