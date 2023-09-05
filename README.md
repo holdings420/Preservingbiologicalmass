@@ -189,6 +189,10 @@ Creating a fruit preserve allows the final product to:
 - 100ºC (212ºF)	0.01seconds	Higher-Heat Shorter Time (HHST)
 - 138ºC (280ºF)	2.0 seconds	Ultra Pasteurization (UP)
 
+## Antifungal Properties of Natamycin
+- https://pubmed.ncbi.nlm.nih.gov/34868698/
+- Natamycin inhibits mold and fungal growth
+- 
 ## Nutrition Disclosure
 - Ozone washing oxidizes vitamins and antioxidants hence there is a loss of nutrients.
 - Standard method of calculating the vitamins and nutrients in the jam is insufficient due to the oxidation.
