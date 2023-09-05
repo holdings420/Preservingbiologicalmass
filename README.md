@@ -1,4 +1,7 @@
 # Method of Speed Freeze Drying While Maintaining Flavor Through Reconstitution and Long Term Storage of Flavor and Aroma 9/5/23
+
+Freeze Dried Fruit tastes a bit bland. Where did the flavor go? This method stores the flavor lost through sublimation. The essence of strawberrry is in its dried long shelf life form and aroma water which also has a long shelf life.
+ 
 - Increasing the shelf temperature to 30-60C to Increase the amount of water sublimated.
 - Capturing the fraction of Distillate in the Cold Trap for Reconstitution.
     - The fraction of distillate in the cold trap contains water and aroma compounds which are lost in the freeze drying process.
@@ -11,6 +14,7 @@
 - Freeze Dried Fruit
 - Aroma Water can be sold as Calorie Free Sparkling Water.
 - Freeze Dried Fruit can be turned into jam or in storage.
+
 
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
