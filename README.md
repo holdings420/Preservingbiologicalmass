@@ -12,24 +12,27 @@ Water released refers to the amount of water released through reverse osmosis. T
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.3)
 - Citric Acid
+- Natamycin
 --------------------------------------
 - Fruit (2)
     - Water released (1)
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.2)
 - Citric Acid
+- Natamycin
 ---------------------------------------
 - Fruit (3)
     - Water released (2)
 - Sugar (1.4-1.7)
 - Freeze Dried Fruit (.1)
 - Citric Acid
+- Natamycin
 ----------------------------------------
 - Fruit (4)
     - Water released (3)
 - Sugar (1.4-1.7)
 - Citric Acid
-
+- Natamycin
     
 --------------------------------------------------------------------------------------------------------------
 
@@ -348,7 +351,7 @@ Yuzu
 - Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
 - Acidifier (Lemon, Citric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
-- Optional Preservatives
+- Optional Preservatives Natamycin
 
 ## Supplemented Nutrients
 - Vitamins
