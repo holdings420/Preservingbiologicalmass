@@ -1,3 +1,11 @@
+# Method of Speed Freeze Drying While Maintaining Flavor Through Reconstitution and Long Term Storage of Flavor and Aroma 9/5/23
+- Increasing the shelf temperature to 30-60C to Increase the amount of water sublimated.
+- Capturing the fraction of Distillate in the Cold Trap for Reconstitution.
+    - The fraction of distillate in the cold trap contains water and aroma compounds which are lost in the freeze drying process.
+    - Collecting the initial distillate of aroma for reconstitution.
+      - Initial Distillate fractions from the first distillate to midway of the distillation process.
+    - Storing the aroma distillate for reconstitution.
+
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
 - https://patents.google.com/patent/EP1222864B1/en?q=(reverse+osmosis+fruit)&oq=reverse+osmosis+fruit
