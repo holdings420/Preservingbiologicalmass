@@ -6,6 +6,12 @@
       - Initial Distillate fractions from the first distillate to midway of the distillation process.
     - Storing the aroma distillate for reconstitution.
 
+## Multiple Products Generated from Process (Dual Product Process)
+- Aroma Water
+- Freeze Dried Fruit
+- Aroma Water can be sold as Calorie Free Sparkling Water.
+- Freeze Dried Fruit can be turned into jam or in storage.
+
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
 - https://patents.google.com/patent/EP1222864B1/en?q=(reverse+osmosis+fruit)&oq=reverse+osmosis+fruit
