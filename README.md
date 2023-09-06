@@ -30,8 +30,8 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 - The pouch material is layered with natural fibers such as cellulose or hemp, polaymide membrane, cellulose fiber, sanitized titanium mesh, nanofiltration cellulose/polypropylene fibers thickness of 1mm-2mm, Coarse polypropylene fiber Teflon Mesh.
 
 ## Absorption Fluid
-- High brix content fluid
-- 90-anhydrous ethanol
+- 60-100 brix content fluid
+- 90% anhydrous ethanol
 - Fluid storage tank contains dessicants such as anhydrous magnesium sulfate or sodium sulfate for ethanol or excess sucrose if the solvent is water.
 
 ## Rotating Absorption Pack
@@ -215,12 +215,14 @@ Creating a fruit preserve allows the final product to:
 - Freeze drier is sanitized using ozone fumigation and uv light. The inside of the freeze drier should be cleaned with soap and ozone water with every use.
 - If the fruit is moved from a hood into the freeze drier, then the fruit needs to be moved from sanitary containment from the hood to the freeze drier.
 - Containment vessel should be washed with ozone water anytime it moves through air.
+- In vacuum humidity should be close to 0-10%
 
 ## Measurement of Water Activity
 - The process of measuring water activity level per batch would be a food safety issue. The method of measuring water activity level would be to creating a cold plate and observing the reflectivity index of the cold plate in the atmosphere of the preserve measured alongside a reference index of reflectivity. 
 
 ## Method of Blending and Sonication
 - Direct drying of fruit/plant matter to the specified water activity level of the mixture or blending freeze dried fruit/plant matter to fresh fruit/plant matter to lower the water activity level.
+- A room with a temperature of -10 C to 35 C with humidity of 0-40%. 
 - Blending the fruit/plant matter with sweeteners, organic acids, freeze dried fruit/plant matter.
 - Sonication of preserve to create a metastable product at 20khz - 120khz with sonic power density of 10w/l - 40w/l for 30 minutes - 4 hour depending on the frequency and wattage density. 40w/l has best performance.
 - Keeping the mixture at a temperature between -10C to 40C for a raw processed product. The lower the temperature the better.
@@ -405,9 +407,9 @@ Yuzu
 ## Simple Recipe
 - Fruit
 - Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
-- Acidifier (Lemon, Citric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
+- Acidifier (Lemon, Citric Acid, Malic Acid, Tartaric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
-- Optional Preservatives Natamycin
+- Optional Preservatives natamycin, sorbic acid, potassium sorbate
 
 ## Supplemented Nutrients
 - Vitamins
