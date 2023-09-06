@@ -22,6 +22,16 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 - A Pressure of 10-120 PSI
 - Two sections consisting of a sugar solution and one side with fruit.
 
+## Water Absorption Pack
+- Pouch has an input nozzle and an output nozzle
+- The pouch is made from polyamide with the pore size of .1nm to 2nm.
+- The pouch has an internal skeleton to handle the external pressure.
+- The pouch material is layered with natural fibers such as cellulose or hemp, polaymide membrane, sanitized titanium mesh, nanofiltration cellulose fibers thickness of 1mm-2mm, Teflon Mesh.
+
+## Absorption Fluid
+- High brix content fluid
+- 90-anhydrous ethanol
+
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
 - https://patents.google.com/patent/EP1222864B1/en?q=(reverse+osmosis+fruit)&oq=reverse+osmosis+fruit
