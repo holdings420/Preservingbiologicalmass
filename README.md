@@ -31,8 +31,9 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 
 ## Absorption Fluid
 - 60-100 brix content fluid
-- 90% anhydrous ethanol
-- Fluid storage tank contains dessicants such as anhydrous magnesium sulfate or sodium sulfate for ethanol or excess sucrose if the solvent is water.
+- 90% to anhydrous ethanol
+- glycerin
+- Fluid storage tank contains dessicants such as anhydrous magnesium sulfate or sodium sulfate for ethanol/glycerin or excess sucrose if the solvent is water.
 
 ## Rotating Absorption Pack
 - A rotating head is attached to the absorption packs.
