@@ -27,7 +27,7 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 - Pouch has an input nozzle and an output nozzle
 - The pouch is made from polyamide with the pore size of .1nm to 2nm.
 - The pouch has an internal skeleton to handle the external pressure.
-- The pouch material is layered with natural fibers such as cellulose or hemp, polaymide membrane, sanitized titanium mesh, nanofiltration cellulose fibers thickness of 1mm-2mm, Teflon Mesh.
+- The pouch material is layered with natural fibers such as cellulose or hemp, polaymide membrane, cellulose fiber, sanitized titanium mesh, nanofiltration cellulose/polypropylene fibers thickness of 1mm-2mm, Coarse polypropylene fiber Teflon Mesh.
 
 ## Absorption Fluid
 - High brix content fluid
@@ -37,14 +37,18 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 ## Rotating Absorption Pack
 - A rotating head is attached to the absorption packs.
 - The absorption packs stir the puree.
+- The absorption packs are arranged in circular placement like an onion with 2cm separation between each layers. 
+- Each layer spins in opposite direction
+- Layer 1 spins clockwise
+- Layer 2 spins counter clockwise in alternating fashion.
 
 ## Measuring the Amount of Water Absorbed
 - The amount of water absorbed is measured by weighing the water tank.
 - Load cell is under the tank and measures the change in weight over the dehydration.
 
 ## Operation
-- Fill the tank with fruit/vegetable puree
-- 
+- Fill the tank with fruit/vegetable puree.
+- Insert the absorption packs
 
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
