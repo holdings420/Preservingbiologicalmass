@@ -34,8 +34,17 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 - 90-anhydrous ethanol
 - Fluid storage tank contains dessicants such as anhydrous magnesium sulfate or sodium sulfate for ethanol or excess sucrose if the solvent is water.
 
+## Rotating Absorption Pack
+- A rotating head is attached to the absorption packs.
+- The absorption packs stir the puree.
+
+## Measuring the Amount of Water Absorbed
+- The amount of water absorbed is measured by weighing the water tank.
+- Load cell is under the tank and measures the change in weight over the dehydration.
+
 ## Operation
-- Fill a pressure tank with 
+- Fill the tank with fruit/vegetable puree
+- 
 
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
