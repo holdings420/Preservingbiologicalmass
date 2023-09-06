@@ -25,9 +25,9 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 
 ## Water Absorption Pack
 - Pouch has an input nozzle and an output nozzle
-- The pouch is made from polyamide with the pore size of .1nm to 2nm.
+- The pouch is primarily reverse osmosis membrane.
 - The pouch has an internal skeleton to handle the external pressure.
-- The pouch material is layered with natural fibers such as cellulose or hemp, polaymide membrane, cellulose fiber, sanitized titanium mesh, nanofiltration cellulose/polypropylene fibers thickness of 1mm-2mm, Coarse polypropylene fiber Teflon Mesh.
+- The pouch material is layered with natural fibers such as cellulose or hemp, reverse osmosis membrane, cellulose fiber, sanitized titanium mesh, nanofiltration cellulose/polypropylene fibers thickness of 1mm-2mm, Coarse polypropylene fiber Teflon Mesh.
 
 ## Absorption Fluid
 - 60-100 brix content fluid
