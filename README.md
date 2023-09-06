@@ -20,6 +20,7 @@ Freeze Dried Fruit tastes a bit bland. Where did the flavor go? This method stor
 Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 
 - A tank pressure of 10-120 PSI
+- Or the Pouch has a vacuum pressure of 10 - 14.7 psi if the tank is at 1 atm.
 - Two sections consisting of a sugar solution and one side with fruit.
 
 ## Water Absorption Pack
@@ -32,6 +33,9 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 - High brix content fluid
 - 90-anhydrous ethanol
 - Fluid storage tank contains dessicants such as anhydrous magnesium sulfate or sodium sulfate for ethanol or excess sucrose if the solvent is water.
+
+## Operation
+- Fill a pressure tank with 
 
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
