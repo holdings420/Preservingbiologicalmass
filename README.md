@@ -15,6 +15,12 @@ Freeze Dried Fruit tastes a bit bland. Where did the flavor go? This method stor
 - Aroma Water can be sold as Calorie Free Sparkling Water.
 - Freeze Dried Fruit can be turned into jam or in storage.
 
+# Method of Dehydrating utilizing Osmotic Pressure and Low Pressure
+
+Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
+
+- A Pressure of 10-120 PSI
+- Two sections consisting of a sugar solution and one side with fruit.
 
 # Method of Preserving Fruit through Reverse Osmosis 9/1/23
 
