@@ -422,6 +422,7 @@ https://recipe.quarksy.space/
 
 ## Project Notes
 - Independent Project Free and Open Source
+- Keeping it free to elevate food into the next generation
 - Graphic Design of Bottle (Double Wall Glass Tumbler)
 - Nurse Joy
 - https://www.aliexpress.us/item/3256801229941672.html?spm=a2g0o.productlist.main.13.245846eaMfLlPa
