@@ -8,7 +8,13 @@ The sugar content is in the brix range of 40-80 brix.
 
 The water content is in the range of 12%-40%.
 
-The pH of the jam should be lower than 3.1 for the preservation of the jam without the use of preservatives. The pH should be obtained by amplifying the natural fruit acid content.
+The pH of the jam should be lower than 3.1 for the preservation of the jam without the use of preservatives. The pH should be obtained by amplifying the natural fruit acid content. For Strawberries the major fruit acids are Malic Acid and Citric Acid. By utilizing the percentage composition of the natural fruit, the flavor becomes an amplification of the natural sweetness and tartness. 
+
+- The Citric, Succinic, Malic Acid composition of strawberries
+- https://www.researchgate.net/figure/Mean-content-of-soluble-sugars-and-organic-acids-in-strawberry-fruits-of-different_tbl2_251569921
+
+The formulation would be based on lookup or research of each individual fruit. 
+The ratio used for each recipe would vary depending on the fruit's natural acid composition. 
 
 1:1.4:.3 
 is experimentally the ideal composition.
