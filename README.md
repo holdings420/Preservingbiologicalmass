@@ -14,7 +14,9 @@ The pH of the jam should be lower than 3.1 for the preservation of the jam witho
 - https://www.researchgate.net/figure/Mean-content-of-soluble-sugars-and-organic-acids-in-strawberry-fruits-of-different_tbl2_251569921
 
 The formulation would be based on lookup or research of each individual fruit. 
-The ratio used for each recipe would vary depending on the fruit's natural acid composition. 
+The ratio used for each recipe would vary depending on the fruit's natural acid composition. The amount of acid used would be to reach the pH of <3.1.
+
+The Acid pH would be in the range of 2.4 - 3.6 depending on the amount of preservative and antifungals. The higher the pH the more preservatives would have to be used.
 
 1:1.4:.3 
 is experimentally the ideal composition.
