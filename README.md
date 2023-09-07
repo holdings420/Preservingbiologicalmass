@@ -10,7 +10,9 @@ The water content is in the range of 12%-40%.
 
 The pH of the jam should be lower than 3.1 for the preservation of the jam without the use of preservatives. The pH should be obtained by amplifying the natural fruit acid content.
 
-
+1:1.4:.3 
+is experimentally the ideal composition.
+in the startup 3/20 map there are notes on experiments of different compositions from 2020
 
 
 
