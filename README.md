@@ -1,6 +1,6 @@
 # Jam Composition
 
-The jam is comprised of sugar, fruit acid, dry fruit, water.
+The jam is comprised of sugar, fruit acid, dry fruit, water. The composition is not the ingredient but a set of each ingredients bare composition.
 
 The dried fruit matter is in the range of 8%-20% dried fruit matter
 
