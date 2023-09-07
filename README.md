@@ -4,6 +4,15 @@ The jam is comprised of sugar, fruit acid, dry fruit, water.
 
 The dried fruit matter is in the range of 8%-20% dried fruit matter
 
+The sugar content is in the brix range of 40-80 brix.
+
+The water content is in the range of 12%-40%.
+
+The pH of the jam should be lower than 3.1 for the preservation of the jam without the use of preservatives. The pH should be obtained by amplifying the natural fruit acid content.
+
+
+
+
 
 
 # Method of Speed Freeze Drying While Maintaining Flavor Through Reconstitution and Long Term Storage of Flavor and Aroma 9/5/23
