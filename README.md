@@ -120,6 +120,9 @@ Few methods of irradiation exists. Cobalt 60 Irradiation, Electron Beam irradiat
 - https://patents.google.com/patent/US6614876B1/en (expired)
 - https://patents.google.com/patent/US6389099B1/en (expired)
 
+## Direct method and apparatus of xray sterilization of food
+- https://patents.google.com/patent/US6868136B2/en?q=(food+xray)&oq=food+xray (expired)
+
 ## How xray is used to sterilize medical devices
 - https://biomedgrid.com/fulltext/volume12/using-x-ray-technology-to-sterilize-medical-devices.001755.php
 
