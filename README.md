@@ -10,9 +10,6 @@ The water content is in the range of 12%-40%.
 
 The pH of the jam should be lower than 3.1 for the preservation of the jam without the use of preservatives. The pH should be obtained by amplifying the natural fruit acid content. For Strawberries the major fruit acids are Malic Acid and Citric Acid. By utilizing the percentage composition of the natural fruit, the flavor becomes an amplification of the natural sweetness and tartness. 
 
-- The Citric, Succinic, Malic Acid composition of strawberries
-- https://www.researchgate.net/figure/Mean-content-of-soluble-sugars-and-organic-acids-in-strawberry-fruits-of-different_tbl2_251569921
-
 The formulation would be based on lookup or research of each individual fruit. 
 The ratio used for each recipe would vary depending on the fruit's natural acid composition. The amount of acid used would be to reach the pH of <3.1.
 
@@ -33,8 +30,14 @@ contributes no flavour.”
 is experimentally the ideal composition.
 in the startup 3/20 map there are notes on experiments of different compositions from 2020
 
+# Method of Selecting Fruit Acids
 
+Select a fruit of choice that you are trying to preserve in its natural state. Send it to a lab to identify the fruit acid composition.
+The naturally found fruit acid composition is then amplified. The top 1 or top 4 acids may be added to increase the acidity while maintaining the natural fruit acid composition of the jam. 
 
+- The Citric, Succinic, Malic Acid composition of strawberries
+- https://www.researchgate.net/figure/Mean-content-of-soluble-sugars-and-organic-acids-in-strawberry-fruits-of-different_tbl2_251569921
+- Approximately the natural fruit acid ratio is Citric Acid 2, Malic Acid .4, Succinic Acid .4
 
 # Method of Speed Freeze Drying While Maintaining Flavor Through Reconstitution and Long Term Storage of Flavor and Aroma 9/5/23
 
