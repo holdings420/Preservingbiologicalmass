@@ -18,6 +18,9 @@ The ratio used for each recipe would vary depending on the fruit's natural acid 
 
 The Acid pH would be in the range of 2.4 - 3.6 depending on the amount of preservative and antifungals. The higher the pH the more preservatives would have to be used.
 
+- Natamycin and Nisin preservative
+- https://patents.google.com/patent/US5895680A/en?q=(natamycin+food)&oq=natamycin+food&page=2
+
 1:1.4:.3 
 is experimentally the ideal composition.
 in the startup 3/20 map there are notes on experiments of different compositions from 2020
