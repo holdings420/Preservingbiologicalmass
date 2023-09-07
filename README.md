@@ -1,3 +1,11 @@
+# Jam Composition
+
+The jam is comprised of sugar, fruit acid, dry fruit, water.
+
+The dried fruit matter is in the range of 8%-20% dried fruit matter
+
+
+
 # Method of Speed Freeze Drying While Maintaining Flavor Through Reconstitution and Long Term Storage of Flavor and Aroma 9/5/23
 
 Freeze Dried Fruit tastes a bit bland. Where did the flavor go? This method stores the flavor lost through sublimation. The essence of strawberrry is in its dried long shelf life form and aroma water which also has a long shelf life.
