@@ -21,6 +21,14 @@ The Acid pH would be in the range of 2.4 - 3.6 depending on the amount of preser
 - Natamycin and Nisin preservative
 - https://patents.google.com/patent/US5895680A/en?q=(natamycin+food)&oq=natamycin+food&page=2
 
+- Potassium Sorbate Preservative
+- https://www.ams.usda.gov/sites/default/files/media/P%20Sor%20technical%20advisory%20panel%20report.pdf
+- “Although the minimum inhibatory concentration for many fungi and bacteria is approx. 100 ppm, common usage levels
+range from 0.5 - 1.0%.” 11 “Sorbic acid is widely used to inhibit yeast and mould growth in a variety of
+foods including cheese, baked products and wine. It may be added directly to the food, or incorporated into
+the packaging method, usually at a concentration of 0.3% by weight of the food and at such values,
+contributes no flavour.” 
+
 1:1.4:.3 
 is experimentally the ideal composition.
 in the startup 3/20 map there are notes on experiments of different compositions from 2020
