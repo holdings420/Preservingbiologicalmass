@@ -1,3 +1,7 @@
+# Update Living Packaging for Shipping Jams 9/8/23 
+Agricultural waste into living self healing materials for packaging
+https://github.com/holdings420/LivingPackaging
+
 # Jam Composition
 
 I hope we all have lower cost tastier meals for the current generation and the generation of our children.
