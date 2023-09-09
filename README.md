@@ -9,6 +9,7 @@ https://github.com/holdings420/LivingPackaging
 - On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
 - Add water to cake on the DE onto the filter.
 - Apply pressure of 10-40 psi down or pull a vacuum.
+- Add a layer of filter paper on top.
 - Add fruit juice and filter to clarify just like beer.
 
 
