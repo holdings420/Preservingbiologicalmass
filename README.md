@@ -2,6 +2,16 @@
 Agricultural waste into living self healing materials for packaging
 https://github.com/holdings420/LivingPackaging
 
+# Method of Clarifying Juice
+
+- Add fruit puree into a filter bag and press to juice.
+- Or centrifuge fruit puree until clarified. 
+- On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
+- Add water to cake on the DE onto the filter.
+- Apply pressure of 10-40 psi down or pull a vacuum.
+- Add fruit juice and filter to clarify just like beer.
+
+
 # Jam Composition
 
 I hope we all have lower cost tastier meals for the current generation and the generation of our children.
