@@ -117,7 +117,7 @@ Dehydrating pureed fruits and plant matter utilizing a reverse osmosis membrane.
 
 - https://patents.google.com/patent/EP1222864B1/en?q=(reverse+osmosis+fruit)&oq=reverse+osmosis+fruit
 - Utilize the process to concentrate the fruit/vegetable juice.
-- Use a gear pump/rotary vane pump/reciprocating pump/radial piston pump/centrifugal pump/plunger pump/axial flow pump/submersible pump with internal teflon lining for pressing the juice into the filter.
+- Use a gear pump/rotary vane pump/reciprocating pump/radial piston pump/centrifugal pump/plunger pump/axial flow pump/submersible pump with internal teflon lining or stainless steel internals for pressing the juice into the filter.
 - Add the fruit pulp to the concentrated juice.
 - Add Sugar and Citric Acid
 
