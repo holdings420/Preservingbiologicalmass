@@ -5,9 +5,9 @@ https://github.com/holdings420/LivingPackaging
 # Method of Clarifying Juice
 - https://patents.google.com/patent/CH127845A/en?q=(Hydraulic+juicer)&oq=Hydraulic+juicer+
 - Juice using this expired patent.
--  Use a fibrous Teflon/HDPE/Polypropylene bag with a pore size of 0.1-8micron to filter the fruit.  for the sake of argument add a flashlight onto the press to increase visibility for when you are working inside a cave.
+-  Use a fibrous Teflon/HDPE/Polypropylene bag with a stainless steel mesh liner on both sides of the filter bag to prevent goopy pulp from going into your clear juice with a pore size of 0.1-8micron to filter the fruit.  for the sake of argument add a flashlight onto the press to increase visibility for when you are working inside a cave.
 - Add googly eyes and glow in the dark tape on handles for visibility. 
-- Add fruit puree into a filter bag and press to juice.
+- Add fruit puree into a filter bag and press to juice at over 9000lb/ft to 90000lb/ft.
 - Or centrifuge fruit puree until clarified. 
 - On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
 - Add water to cake on the DE onto the filter.
