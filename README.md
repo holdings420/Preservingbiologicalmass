@@ -4,6 +4,7 @@ https://github.com/holdings420/LivingPackaging
 
 # Method of Clarifying Juice
 - https://patents.google.com/patent/CH127845A/en?q=(Hydraulic+juicer)&oq=Hydraulic+juicer+
+-  temperature is -10c to 40c
 - Juice using this expired patent.
 -  Use a fibrous Teflon/HDPE/Polypropylene bag with a stainless steel mesh liner on both sides of the filter bag to prevent goopy pulp from going into your clear juice with a pore size of 0.1-8micron to filter the fruit.  for the sake of argument add a flashlight onto the press to increase visibility for when you are working inside a cave.
 - Add googly eyes and glow in the dark tape on handles for visibility. 
