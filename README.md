@@ -3,7 +3,9 @@ Agricultural waste into living self healing materials for packaging
 https://github.com/holdings420/LivingPackaging
 
 # Method of Clarifying Juice
-
+- https://patents.google.com/patent/CH127845A/en?q=(Hydraulic+juicer)&oq=Hydraulic+juicer+
+- Juice using this expired patent. for the sake of argument add a flashlight onto the press to increase visibility for when you are working inside a cave.
+- Add googly eyes and glow in the dark tape on handles for visibility. 
 - Add fruit puree into a filter bag and press to juice.
 - Or centrifuge fruit puree until clarified. 
 - On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
