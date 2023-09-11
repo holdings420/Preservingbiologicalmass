@@ -1,6 +1,8 @@
 # Update Living Packaging for Shipping Jams 9/8/23 
 Agricultural waste into living self healing materials for packaging
 https://github.com/holdings420/LivingPackaging
+https://www.sciencedirect.com/science/article/abs/pii/S0141813018309656
+experimental packaging utilizing biodegradable materials utilizing paper and bioplastics. 
 
 # Method of Clarifying Juice
 - https://patents.google.com/patent/CH127845A/en?q=(Hydraulic+juicer)&oq=Hydraulic+juicer+
