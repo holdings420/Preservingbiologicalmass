@@ -203,7 +203,7 @@ The purpose of this document and project is to preserve fruits/plant matter in o
 
 We ask how can we preserve something for a long time without the thermal degradation of traditional jam making methodology. The procedure brings fruit/plant matter to a low activity of microbial life to enable the long term preservation of fruit/plant matter. In order to achieve preservation, the final substance needs to approach a low level of hydration. Reduction of water activity level to 0.5 - 0.8 would create an environment where microbial activity is reduced or stunted. Methods such as sublimating the water in fruit/plant matter, addition of food grade sweetening agents, and acidifying using organic acids, decrease the microbial activity level.
 
-The preserve would have a water activity of 0.5-0.8 after reducing the water activity by level 0.2-0.5. The lower the water activity level the better the preservation.
+The preserve would have a water activity of 0.5-0.8 after reducing the water activity by 0.2-0.5. The lower the water activity level the better the preservation. 
 
 ![Water Activity](/wateractivity.png)
 
@@ -477,7 +477,8 @@ Yuzu
 - Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
 - Acidifier (Lemon, Citric Acid, Malic Acid, Tartaric Acid, Fruit Acid Composition Amplification, Organic Acids, Common Fruit Acids)
 - Freeze Dried Fruit 
-- Optional Preservatives natamycin, sorbic acid, potassium sorbate
+- Optional Preservatives nisin,natamycin, sorbic acid, potassium sorbate
+- I was told that ascorbic acid (vitamin C) and benzoate salts react to form benzene. 
 
 ## Supplemented Nutrients
 - Vitamins
