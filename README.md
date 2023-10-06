@@ -18,6 +18,13 @@ experimental packaging utilizing biodegradable materials utilizing paper and bio
 - Add a layer of filter paper on top.
 - Add fruit juice and filter to clarify just like beer.
 
+# Thawing Frozen Fruit for Osmosis and Reverse Osmosis 
+- Utilize the properties of the pectin matrix with frozen juice to lyse the juice out of the fruit.
+- The pectin holds the fruit intact while the ice bursts the juice out of the pectin matrix
+- https://www.youtube.com/watch?v=VxbLPn2DWlk&ab_channel=ChefSteps
+- Reverse osmosis the juice for a concentrate
+- Add the concentrate to the fruit again for a second extraction
+- Reverse osmosis the concentrate again to bring out extra juice from the fruit using osmosis.
 
 # Jam Composition
 
